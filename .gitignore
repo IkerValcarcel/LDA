@@ -1,2 +1,4 @@
 # ignore all csv
 *.csv
+# ignore all txt
+*.txt
